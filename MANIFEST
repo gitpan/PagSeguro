@@ -1,0 +1,26 @@
+inc/Module/AutoInstall.pm
+inc/Module/Install.pm
+inc/Module/Install/AutoInstall.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Include.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/PagSeguro.pm
+lib/PagSeguro/Base.pm
+lib/PagSeguro/Cliente.pm
+lib/PagSeguro/Item.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+t/00-load.t
+t/pagseguro.t
+t/pagseguro_base.t
+t/pagseguro_cliente.t
+t/pagseguro_item.t
+t/release-eol.t
+t/release-notabs.t
+t/releases-pod-syntax.t
